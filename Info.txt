@@ -1,0 +1,7 @@
+BD VERSION: mysql  Ver 8.0.31 for macos12.6 on arm64
+PHP VERSION: 8.2.0
+
+Para la BD: En la carpeta de BD deberia copiar y pegar el script y deberia crear la BD y sus respectivas 
+tablas en conjunto con los insert necesarios.
+
+Para el proyecto: Verificar los datos de la conexion en caso que no sea el mismo puerto usuario y contrseña.
